@@ -1,0 +1,16 @@
+#time {
+  font-size:40px;
+  text-align: center; 
+  margin-top: auto;
+}
+.block {
+margin: 0 auto;
+margin-bottom: auto;
+}
+
+body {
+display: flex;
+flex-direction: column;
+height: 100vh;
+margin: 0;
+}
